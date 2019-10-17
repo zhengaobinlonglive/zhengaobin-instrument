@@ -1,4 +1,4 @@
-package com.mmcro.utils;
+package com.zhengaobin.utils;
 
 import org.apache.commons.codec.digest.DigestUtils;
 
